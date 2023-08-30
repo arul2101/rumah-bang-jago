@@ -1,0 +1,38 @@
+{
+  "order": [
+    {
+      "customer": "Arull Ganteng",
+      "phone": "08123456789",
+      "address": "Jalan Sana sini",
+      "priority": true,
+      "cart": [
+        {
+          "friedRiceId": 1,
+          "name": "Nasi Goreng Pete",
+          "quantity": 1,
+          "unitPrice": 20000,
+          "totalPrice": 20000
+        },
+        {
+          "friedRiceId": 6,
+          "name": "Nasi Goreng Ayam Kampung",
+          "quantity": 3,
+          "unitPrice": 25000,
+          "totalPrice": 75000
+        },
+        {
+          "friedRiceId": 7,
+          "name": "Nasi Goreng Ala Singapore",
+          "quantity": 1,
+          "unitPrice": 25000,
+          "totalPrice": 25000
+        }
+      ],
+      "orderPrice": 120000,
+      "priorityPrice": 24000,
+      "status": "preparing",
+      "id": "RBJ13792745",
+      "estimatedDelivery": "2023-08-30T12:34:58.122Z"
+    }
+  ]
+}

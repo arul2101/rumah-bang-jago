@@ -1,0 +1,92 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng Pete",
+      "unitPrice": 20000,
+      "imageUrl": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/09/06/3112343442.jpg",
+      "ingredients": ["Nasi", "Pete", "Daun Bawang", "Bawang Merah", "Bawang Putih"],
+      "soldOut": false
+    },
+    {
+      "id": 2,
+      "name": "Nasi Goreng Ikan Asin",
+      "unitPrice": 22000,
+      "imageUrl": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/01/05/1375175239.jpg",
+      "ingredients": ["Nasi", "Ikan Asin", "Daun Bawang", "Bawang Merah", "Bawang Putih"],
+      "soldOut": false
+    },
+    {
+      "id": 3,
+      "name": "Nasi Goreng SF X.O",
+      "unitPrice": 25000,
+      "imageUrl": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/16/Resep-Nasi-Goreng-Seafood-Bikin-Nambah-Ala-Restoran-Solaria-7989052.jpg",
+      "ingredients": ["Nasi", "Olahan Seafood", "Daun Bawang", "Bawang Merah", "Bawang Putih", "Saus X.O"],
+      "soldOut": true
+    },
+    {
+      "id": 4,
+      "name": "Nasi Goreng Ayam",
+      "unitPrice": 18000,
+      "imageUrl": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/11/11/1678028299.jpg",
+      "ingredients": ["Nasi", "Ayam Fillet", "Daun Bawang", "Bawang Merah", "Bawang Putih", "Kecap Asin"],
+      "soldOut": false
+    },
+    {
+      "id": 5,
+      "name": "Nasi Goreng Homemade",
+      "unitPrice": 15000,
+      "imageUrl": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/03/29/nasi-goreng-telur-2382388200.jpeg",
+      "ingredients": ["Nasi", "Ayam Suwir", "Daun Bawang", "Bawang Merah", "Bawang Putih", "Kecap Manis"],
+      "soldOut": false
+    },
+    {
+      "id": 6,
+      "name": "Nasi Goreng Ayam Kampung",
+      "unitPrice": 25000,
+      "imageUrl": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/12/06/1141926886.jpeg",
+      "ingredients": ["Nasi", "Ayam Kampung", "Daun Bawang", "Bawang Merah", "Bawang Putih"],
+      "soldOut": false
+    },
+    {
+      "id": 7,
+      "name": "Nasi Goreng Ala Singapore",
+      "unitPrice": 25000,
+      "imageUrl": "https://asset.kompas.com/crops/DO8Chux7BMypGGNPzny6zTOJAiQ=/33x5:994x646/750x500/data/photo/2023/06/15/648a5d5824a66.jpeg",
+      "ingredients": ["Nasi", "Ayam", "Daun Bawang", "Bawang Merah", "Bawang Putih", "Kecap Inggris"],
+      "soldOut": false
+    },
+    {
+      "id": 8,
+      "name": "Nasi Goreng Udang Jago",
+      "unitPrice": 21000,
+      "imageUrl": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/04/2699971658.jpg",
+      "ingredients": ["Nasi", "Udang", "Daun Bawang", "Bawang Merah", "Bawang Putih", "Miyak Wijen"],
+      "soldOut": true
+    },
+    {
+      "id": 9,
+      "name": "Nasi Goreng Special",
+      "unitPrice": 25000,
+      "imageUrl": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/24/fried-rice-6297407_1920-356534013.jpg",
+      "ingredients": ["Nasi", "Ayam Suwir", "Daun Bawang", "Bawang Merah", "Bawang Putih", "Minyak Wijen", "Kecap Inggris"],
+      "soldOut": false
+    },
+    {
+      "id": 10,
+      "name": "Nasi Goreng Nugget",
+      "unitPrice": 18000,
+      "imageUrl": "https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/2018/05/06/2740046813.jpg",
+      "ingredients": ["Nasi", "Nugget", "Daun Bawang", "Bawang Merah", "Bawang Putih"],
+      "soldOut": false
+    },
+    {
+      "id": 11,
+      "name": "Nasi Goreng Sosis",
+      "unitPrice": 15000,
+      "imageUrl": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2022/08/29/3922155202.png",
+      "ingredients": ["Nasi", "Sosis", "Daun Bawang", "Bawang Merah", "Bawang Putih"],
+      "soldOut": false
+    }
+  ]
+}
